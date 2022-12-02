@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiquiNaut a student at FEI STUBA 
 - 👀 I’m interested a little bit in everything
-- 🌱 I’m currently learning Java Persistent API and React
+- 🌱 I’m currently learning Ruby/Ruby Rails
 - 📫 You can reach me throu email: gasparovicboris97@gmail.com or Instagram: https://www.instagram.com/boris_gasparovic/
 
 <!---
