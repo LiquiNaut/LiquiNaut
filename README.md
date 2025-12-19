@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LiquiNaut a student at FEI STUBA 
 - 👀 I’m interested in backend development and cloud technologies
-- 🌱 I’m currently gaining experience at https://lucanto.eu/
 - 📫 You can reach me throu email: gasparovicboris97@gmail.com or Instagram: https://www.instagram.com/boris_gasparovic/
 
 <!---
