@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiquiNaut a student at FEI STUBA 
+- 👋 Hi, I’m @LiquiNaut
 - 👀 I’m a fullstack developer with interest in AI and new things
 - 📫 You can reach me throu email: gasparovicboris97@gmail.com or Instagram: https://www.instagram.com/boris_gasparovic/
 
